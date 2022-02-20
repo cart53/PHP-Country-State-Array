@@ -1,7 +1,40 @@
 <?php
 return [
     "AF" => [
-
+        'BDN' => 'Badakhshan',
+        'BDG' => 'Badghis',
+        'BAG' => 'Baghlan',
+        'BLH' => 'Balkh',
+        'BAM' => 'Bamyan',
+        'DYK' => 'Daykundi',
+        'FRH' => 'Farah',
+        'FYB' => 'Faryab',
+        'GAZ' => 'Ghazni',
+        'GHR' => 'Ghor',
+        'HEL' => 'Helmand',
+        'HRT' => 'Herat',
+        'JZJ' => 'Jowzjan',
+        'KBL' => 'Kabul',
+        'KRD' => 'Kandahar',
+        'KPS' => 'Kapisa',
+        'KST' => 'Khost',
+        'KNR' => 'Kunar',
+        'KDZ' => 'Kunduz',
+        'LGM' => 'Laghman',
+        'LGR' => 'Logar',
+        'NGR' => 'Nangarhar',
+        'NRZ' => 'Nimruz',
+        'NUR' => 'Nuristan',
+        'PAK' => 'Paktia',
+        'PKT' => 'Paktika',
+        'PJR' => 'Panjshir',
+        'PRN' => 'Parwan',
+        'SAM' => 'Samangan',
+        'SRP' => 'Sar-e Pol ',
+        'TAK' => 'Takhar',
+        'ORZ' => 'Uruzgan',
+        'WDK' => 'Maidan Wardak',
+        'ZBL' => 'Zabul',
     ],
     "AL" => [
 
@@ -530,7 +563,13 @@ return [
 
     ],
     "NP" => [
-
+        "P1" => 'Province 1',
+        "P2" => 'Madhesh',
+        "P3" => 'Bagmati',
+        "P4" => 'Gandaki',
+        "P5" => 'Lumbini',
+        "P6" => 'Karnali',
+        "P7" => 'Sudurpashchim',
     ],
     "NL" => [
 
